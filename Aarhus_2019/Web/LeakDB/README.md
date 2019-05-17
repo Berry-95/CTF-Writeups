@@ -12,7 +12,7 @@ We are being asked to find a flag located somewhere on the provided website. A h
 
 ----
 ### Solution
-The website allows a user to enter a password and then checks if this has been leaked by looking it up in it’s database. The website can give three different responses depending on the input it is given.
+The website allows a user to enter a password and then checks if this has been leaked by looking it up in its database. The website can give three different responses depending on the input it is given.
 
 <p align="center">
 	<img width="30%" src="./error.png">
